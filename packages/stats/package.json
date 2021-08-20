@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "d3-array": "2.12.1",
-    "d3-scale": "3.3.0",
+    "d3-scale": "4.0.0",
     "fs-extra": "^10.0.0",
     "jstat": "^1.9.4",
     "path": "0.12.7",
